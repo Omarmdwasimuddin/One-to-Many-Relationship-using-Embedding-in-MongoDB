@@ -12,3 +12,19 @@ nest g service products
 nest g controller products
 ```
 ---
+
+
+
+>#### create file folder- schemas/tag.schema.ts & schemas/products.schema.ts
+#### `tag.schema.ts`
+```bash
+import { Prop, Schema } from "@nestjs/mongoose";
+
+
+@Schema()
+export class Tag {
+    @Prop()
+    name: string;
+}
+```
+---
