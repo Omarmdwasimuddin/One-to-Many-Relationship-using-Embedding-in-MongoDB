@@ -127,3 +127,15 @@ export class ProductsController {
 }
 ```
 ---
+
+
+>## OUTPUT
+>
+><img width="704" height="651" alt="image" src="https://github.com/user-attachments/assets/8c6bc7cc-d4ad-45ba-a2ee-2d758da8adc6" />
+>
+>##
+><img width="713" height="675" alt="image" src="https://github.com/user-attachments/assets/3281a2d7-825d-4d15-bb14-30c9701484cc" />
+>
+>##
+><img width="1599" height="555" alt="image" src="https://github.com/user-attachments/assets/4afb6d1b-cc74-474c-b866-adcf53f3aaa2" />
+---
